@@ -30,6 +30,7 @@ function App() {
       showAlert("Light mode has been enabled", "success");
     }
   };
+  
 
   const [alert, setAlert] = useState(null);
 
